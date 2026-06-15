@@ -110,7 +110,7 @@ span.page-subheading{
 
 h4{
   font-size: 12pt !important;
-  font-weight: normal; !important;
+  font-weight: normal !important;
 }
 
 .subsubheading {
@@ -177,7 +177,7 @@ tr:nth-child(n+1), tr:nth-child(n+2) {
 .speaker-affiliation{
   font-weight: lighter !important;
   font-size: 11pt;
-  color: dimgrey; !important;
+  color: dimgrey !important;
 }
 
 .frame {
@@ -194,4 +194,22 @@ tr:nth-child(n+1), tr:nth-child(n+2) {
   margin: auto;
   display: flex;
   width: 75%;
+}
+
+/* Homepage typography refresh (font-only change) */
+.home-main {
+  font-family: "Source Sans 3", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.home-main p,
+.home-main a,
+.home-main strong {
+  font-family: "Source Sans 3", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: 0.1px;
+}
+
+.home-main .page-title,
+.home-main h3 {
+  font-family: "Merriweather", Georgia, "Times New Roman", serif;
+  letter-spacing: 0.2px;
 }
