@@ -15,11 +15,10 @@ title: Venue
 .badge-note { display:inline-block; font-weight:600; font-size:.85rem; padding:.2rem .45rem; border:1px solid #bbb; border-radius:.4rem; margin-left:.25rem; }
 </style>
 
-## Workshop Venue
+## Symposium Venue
 
-**SPECTRA Building (University of Hertfordshire, College Lane Campus)**  
-Main room: **SP0019 (Ground Floor)**  
-Catering & posters: **Open space on Floor 1**
+**Dipoli, Aalto University**  
+Main venue for IMOL 2027
 
 <div class="venue-wrap venue-grid">
 
@@ -28,51 +27,60 @@ Catering & posters: **Open space on Floor 1**
 ### Address
 
 <div class="address-block">
-University of Hertfordshire<br>
-College Lane Campus<br>
-Hatfield, Hertfordshire<br>
-AL10 9AB, UK
+Aalto University<br>
+School of Science<br>
+Otakaari 1<br>
+02150 Espoo, Finland
 </div>
 
-### Getting to Campus
-
-#### By rail
-- **Fast, frequent trains** from *London King’s Cross* to **Hatfield** or **St Albans**.
-- From **Hatfield** station: **Bus 614/602** — *Stop 3* to College Lane.
-- From **St Albans** station: **Bus 602/301** — *Stop A* (College Lane & de Havilland).
-
-#### By bus
-- Timetables: <https://www.unobus.info/>
-
-#### By taxi
-- **Hilltop Taxis**: +44 (0)1707 266666  
-- **AAA Taxis**: +44 (0)1707 888777
-
-#### By road
-- Close to **Junction 3 of the A1(M)**. Campus entrance signposted from J3.  
-- **Sat-nav postcode:** **AL10 9AB**  
-- **Parking** via **Hozah**: <https://www.hozah.com/>
+### Getting to Venue
 
 #### By air
-- **Stansted Airport** → direct **National Express** coach to Hatfield (≈ every 2.5 h), or train via **London** or **Cambridge**.  
-- **Luton Airport** → train to **St Albans**, then bus to Hatfield.  
-- **Gatwick Airport** → train to **St Albans** then bus; or via London (change at **Finsbury Park**).  
-- **Heathrow Airport** → Underground **Piccadilly Line** to **Finsbury Park**, then train to Hatfield; or **724** direct bus to Hatfield.
+- **Helsinki Airport (HEL)** is approximately 20 km from Aalto University
+- Direct shuttle services and taxi available from the airport
+- Journey time: approximately 30-45 minutes depending on traffic
+
+#### By rail
+- **Helsinki central station** to Aalto area via metro or local trains
+- Regular train connections from Helsinki to other Finnish cities
+
+#### By metro/public transport
+- Aalto University is well connected by public transport from Helsinki
+- Metro and bus connections available to Otakaari area
+- Journey time from Helsinki city center: approximately 30 minutes
+
+#### By car
+- Parking available on campus (details to be confirmed)
+- Easily accessible via main roads from Helsinki
+
+#### Campus Information
+- **Campus Code of Conduct**: All attendees will be expected to follow Aalto University's policies and the symposium Code of Conduct
+- **Accessibility**: Dipoli building is accessible for visitors with mobility requirements. Please contact us if you need specific accessibility arrangements.
 </div>
 
 <div class="venue-card" style="grid-column: span 5;">
-  <img class="venue-img" src="/assets/img/SpectraBuilding.jpg" alt="SPECTRA Building, University of Hertfordshire">
-  <div class="caption">SPECTRA Building — IMOL2025 main venue (Room SP0019, Ground Floor).</div>
+  <img class="venue-img" src="/assets/img/dipoli_aalto.jpg" alt="Dipoli building, Aalto University" onerror="this.style.display='none'">
+  <div class="caption">Dipoli — IMOL 2027 main venue at Aalto University.</div>
 </div>
 
 <div class="venue-card" style="grid-column: span 6;">
-  <img class="venue-img" src="/assets/img/CollegeLaneCampusMap.png" alt="College Lane Campus location on Google Maps">
-  <div class="caption">College Lane Campus location in Hatfield (area highlighted).</div>
+  <h3>About Espoo and Aalto University</h3>
+  <p>
+    Espoo is a vibrant city in the Helsinki metropolitan area, known for its innovative tech scene and beautiful natural surroundings. Aalto University is one of Europe's leading research universities, combining technology, business, and arts.
+  </p>
+  <p>
+    <strong>More Information:</strong> <a href="https://www.aalto.fi/" target="_blank">Visit Aalto University website</a>
+  </p>
 </div>
 
 <div class="venue-card" style="grid-column: span 6;">
-  <img class="venue-img" src="/assets/img/SpectraBuildingMap.png" alt="Campus map with SPECTRA building highlighted">
-  <div class="caption">Campus map with <strong>SPECTRA</strong> highlighted — main room <strong>SP0019</strong> (Ground Floor); catering & posters in the connected <strong>Floor 1</strong> open space.</div>
+  <h3>Travel Information</h3>
+  <p>
+    Finland is easily accessible from major European hubs through Helsinki Airport. The country is known for excellent public transportation and a welcoming environment for international visitors.
+  </p>
+  <p>
+    For visa information and travel requirements, please check the official Finnish government travel information.
+  </p>
 </div>
 
 </div>
