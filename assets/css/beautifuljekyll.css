@@ -116,7 +116,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: #fff4e2;
+  background-color: #ffffff;
   border-bottom: 1px solid #541c2e;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
 
@@ -368,7 +368,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 1.125rem;
   font-size: 0.675rem;
-  background-color: #d4a8a9;
+  background-color: #fff;
   
 }
 
